@@ -26,9 +26,5 @@ contract AllowanceWallet {
         allowance[msg.sender] -= _amount;
         payable(msg.sender).transfer(_amount);
     }
-
-    function deposit() public payable onlyOwner {}
-
-    receive() external payable {}
 }
 
