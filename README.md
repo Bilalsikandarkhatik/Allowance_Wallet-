@@ -18,7 +18,7 @@ To create a foundational wallet contract for controlled spending that can be exp
 - Enable users to view and request increases in their allowance.
 - Implement a front-end interface for easier interaction.
 - Integrate event logging for all transactions and allowance changes.
-- Add multi-owner/multi-signature support for organizations.
+- Add multi-signature support for organizations.
 - Contract- 0xCE7AdacbB2214e54D63972B7FE603810254b46e7
 - ![image](https://github.com/user-attachments/assets/cc0ebf6c-1799-4a79-b334-d7a4da5eda49)
 
