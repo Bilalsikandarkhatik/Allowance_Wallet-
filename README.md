@@ -5,7 +5,7 @@
 The Allowance Wallet is a smart contract that allows an owner to manage funds by setting specific withdrawal limits (allowances) for different users. It's a simple demonstration of controlled access and financial delegation on the blockchain.
 
 ## Project Vision
-To create a foundational wallet contract for controlled spending that can be expanded into a full-featured decentralized finance (DeFi) application, suitable for families, teams, or organizations managing shared funds.
+To create a foundational wallet contract for controlled spending that can be expanded into a full-featured decentralized finance application, suitable for families, teams, or organizations managing shared funds.
 
 ## Key Features
 - **Owner-Controlled Allowances**: Only the contract owner can assign or change allowances.
