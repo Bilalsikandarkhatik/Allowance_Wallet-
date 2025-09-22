@@ -1,5 +1,5 @@
 
-# Allowance Wallet
+# Allowance Wallet.
 
 ## Project Description
 The Allowance Wallet is a smart contract that allows an owner to manage funds by setting specific withdrawal limits (allowances) for different users. It's a simple demonstration of controlled access and financial delegation on the blockchain.
