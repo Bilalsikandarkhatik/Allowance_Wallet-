@@ -1,4 +1,4 @@
-# Subscription Service
+# Subscription Service.
 
 ## Project Description
 
