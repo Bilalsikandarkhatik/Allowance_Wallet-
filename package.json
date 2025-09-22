@@ -1,5 +1,5 @@
 {
-  "name": "Allowance_Wallet",
+  "name": "Subscription-Service",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -24,4 +24,4 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.3"
   }
-} 
+}
