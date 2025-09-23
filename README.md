@@ -1,5 +1,5 @@
 # Subscription Service
-.
+
 ## Project Description
 
 The Subscription Service is a decentralized smart contract built on Ethereum that enables businesses to implement recurring payment functionality with automatic billing cycles. This contract allows service providers to create subscription plans and automatically collect payments from subscribers at regular intervals, eliminating the need for manual payment processing and providing a seamless user experience.
